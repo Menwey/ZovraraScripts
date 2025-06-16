@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Menwey/ZovraraScripts/refs/heads/main/gag-antistealer.txt")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Menwey/ZovraraScripts/refs/heads/main/dupemenu.txt")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Menwey/ZovraraScripts/refs/heads/main/GAGdupemenu.txt")
+
