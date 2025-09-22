@@ -1,3 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Menwey/ZovraraScripts/refs/heads/main/dupemenu.txt")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Menwey/ZovraraScripts/refs/heads/main/GAGdupmenu.txt")
-
+script got removed
